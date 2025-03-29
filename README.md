@@ -18,6 +18,11 @@
 ### 🔥 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen7294&show_icons=true&theme=dark)
 
+## 📌 Featured Projects  
+- 🚀 [Medicinal Plant Identification App](https://github.com/Praveen7294/Medicinal_Plant_identification_System)  
+- 🎮 [Minecraft Hosting Server](https://github.com/Praveen7294/papermcminecraft)  
+- 🔐 [Advanced Encryption Standardization (AES)](https://github.com/Praveen7294/Advanced_Encryption_Standardization)
+
 ---
 ⭐ **Feel free to check out my repositories and contribute!**
 
