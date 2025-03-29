@@ -5,7 +5,7 @@
 - 🌱 Currently learning **Spring Boot, Advanced DSA, System Design**  
 - 💡 Working on **Minecraft Hosting Server**  
 - 🔥 Interested in **Backend Development, Cloud, DSA**  
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/praveen-kumar-84b4a8232)  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/praveen-kumar-84b4a8232/)  
 
 ### 📌 My Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
