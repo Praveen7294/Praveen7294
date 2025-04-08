@@ -24,5 +24,5 @@
 - 🔐 [Advanced Encryption Standardization (AES)](https://github.com/Praveen7294/Advanced_Encryption_Standardization)
 
 ---
-⭐ **Feel free to check out my repositories and contribute!**
+⭐ **Feel free to check out my repositories**
 
