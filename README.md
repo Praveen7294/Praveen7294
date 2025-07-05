@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Praveen Kumar !
 ### 🚀 Passionate Developer | Java | Spring Boot | Docker | AWS | MySql | HTML | Css | JavaScript
 
-- 🎓 B.Tech Student (Graduating in 2025)  
+- 🎓 B.Tech Student (Graduated in 2025)  
 - 🌱 Currently learning **Spring Boot, Advanced DSA, System Design**  
 - 💡 Working on **Minecraft Hosting Server**  
 - 🔥 Interested in **Backend Development, Cloud, DSA**  
