@@ -3,7 +3,7 @@
 
 - 🎓 B.Tech Student (Graduated in 2025)  
 - 🌱 Currently learning **Spring Boot, Advanced DSA, System Design**  
-- 💡 Contributing to open source project **Checkstyle**  
+- 💡 Contributing to an open source project **Checkstyle**  
 - 🔥 Interested in **Backend Development, Cloud, DSA**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/praveen-kumar-84b4a8232/)  
 
