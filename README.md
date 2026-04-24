@@ -21,7 +21,7 @@
 ## 📌 Featured Projects  
 - 🚀 [Medicinal Plant Identification App](https://github.com/Praveen7294/Medicinal_Plant_identification_System)  
 - 🎮 [Minecraft Hosting Server](https://github.com/Praveen7294/papermcminecraft)  
-- 🔐 [Advanced Encryption Standardization (AES)](https://github.com/Praveen7294/Advanced_Encryption_Standardization)
+- 🔐 [Virality Engine](https://github.com/Praveen7294/virality-engine)
 
 ---
 ⭐ **Feel free to check out my repositories**
