@@ -19,7 +19,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen7294&show_icons=true&theme=dark)
 
 ## 📌 Featured Projects  
-- 🚀 [Patient_Management_System](https://github.com/Praveen7294/patient-management-sysetm)  
+- 🚀 [Patient_Management_System](https://github.com/Praveen7294/patient-management-system)  
 - 🎮 [Minecraft Hosting Server](https://github.com/Praveen7294/papermcminecraft)  
 - 🔐 [Virality Engine](https://github.com/Praveen7294/virality-engine)
 
