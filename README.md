@@ -31,7 +31,6 @@
 Backend Developer with hands-on experience building scalable systems using **Java**, **Spring Boot**, **Redis**, **Kafka**, and **PostgreSQL**. Active open-source contributor with **29+ merged PRs** to production codebases (Checkstyle, Apache Pulsar). Strong problem-solver with **330+ competitive programming solutions** across Codeforces and LeetCode.
 
 - 🎓 B.Tech in Computer Science — College of Engineering Roorkee (2025)
-- 📍 Gurgaon, Haryana, India
 - 🔥 Passionate about **Microservices**, **System Design**, **Cloud**, and **Clean Code**
 - 🏆 Smart India Hackathon 2023 — **Top 16 Finalist**
 - 📫 Reach me at [praveen729483@gmail.com](mailto:praveen729483@gmail.com)
