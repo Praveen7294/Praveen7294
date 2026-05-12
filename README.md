@@ -148,7 +148,7 @@ Backend Developer with hands-on experience building scalable systems using **Jav
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://codeforces.com/profile/Praveen7294">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Praveen7294&theme=default" alt="Codeforces Stats" />
   </a>
