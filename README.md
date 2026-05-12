@@ -131,7 +131,7 @@ Backend Developer with hands-on experience building scalable systems using **Jav
 |------------|---------|
 | 🥇 Smart India Hackathon 2023 | **Top 16 Finalist** — Led ML-based Medicinal Plant Identification app using TensorFlow & Flutter (85% accuracy) |
 | 🏅 Software Engineering Job Simulation | Forage (Nov 2024) — Agile, Kafka, H2 Database, REST API development |
-| 💻 Competitive Programming | [**280+ problems on Codeforces**](https://codeforces.com/profile/Praveen7294) · [**80+ problems on LeetCode**](https://leetcode.com/u/Praveen7294/) |
+| 💻 Competitive Programming | [**280+ problems on Codeforces**](https://codeforces.com/profile/Praveen7294) · [**50+ problems on LeetCode**](https://leetcode.com/u/Praveen7294/) |
 
 <br>
 <br>
@@ -148,28 +148,46 @@ Backend Developer with hands-on experience building scalable systems using **Jav
   </a>
 </p>
 
-<p align="center">
-  <a href="https://codeforces.com/profile/Praveen7294">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Praveen7294&theme=default" alt="Codeforces Stats" />
-  </a>
-  <a href="https://leetcode.com/u/Praveen7294/">
-    <img src="https://leetcard.jacoblin.cool/Praveen7294?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://codeforces.com/profile/Praveen7294">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Praveen7294&theme=default" width="100%" alt="Codeforces Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/Praveen7294/">
+        <img src="https://leetcard.jacoblin.cool/Praveen7294?theme=light&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen7294&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen7294&layout=compact&theme=default&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen7294&theme=default&hide_border=true" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Praveen7294&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen7294&layout=compact&theme=default&hide_border=true&cache_seconds=1800" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=Praveen7294&theme=default&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen7294&theme=default" width="100%" alt="Profile Summary" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -188,7 +206,7 @@ I'm actively seeking **Backend Developer** or **Software Engineer** roles. If yo
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
   <i>⭐ If any of my projects or contributions were helpful, a star goes a long way!</i>
