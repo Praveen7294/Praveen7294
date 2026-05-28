@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Praveen Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9E75&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;29%2B+Merged+PRs+to+Checkstyle+%7C+Open+Source;Microservices+%7C+Kafka+%7C+gRPC+%7C+Redis;Actively+Looking+for+Backend+%2F+SWE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9E75&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;29%2B+Merged+PRs+to+Checkstyle+%7C+Open+Source;Actively+Looking+for+Backend+%2F+SWE+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
